@@ -18,7 +18,7 @@ There is a bypass function in the code that will make our thread start at the se
 
 # The Code Cave
 ```asm
-0x55,                                                               //Push ebp//Push ebp
+0x55,                                                               //Push ebp
 0x8B, 0xEC,                                                         //mov ebp,esp
 0xB8, 0xDE, 0xAD, 0xBE, 0xEF,                                       //mov eax,DataMem
 0xC7, 0x80, 0xF8, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,         //mov [eax+000000F8],00000000
