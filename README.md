@@ -1,6 +1,9 @@
 # Feribs-FishingBoat
 This tool automatizate fishing in World of Warcraft (32bit) by internal interactions to the game client.
 
+# Preview
+https://www.youtube.com/edit?o=U&video_id=c_SrzqFQoWk
+
 # Info
 Build of WoW 32bit 7.1.5.23420
 
@@ -14,6 +17,7 @@ This is due to the anti-cheat that blizzard uses, what they do is replace the fi
 There is a bypass function in the code that will make our thread start at the second byte of the code cave.
 
 # The Code Cave
+[CODE]
 //Push ebp
 0x8B, 0xEC,                                                         //mov ebp,esp
 0xB8, 0xDE, 0xAD, 0xBE, 0xEF,                                       //mov eax,DataMem
@@ -89,3 +93,4 @@ There is a bypass function in the code that will make our thread start at the se
 0x02, 0x31, 0x2F, 0x00,                                             ///InteratObjByGUID() Func 
 0x92, 0x01, 0x02, 0x00,                                             ///Spell id 
 0x00, 0x00, 0x00, 0x00,                                             ///TargetGUID[4*DWORD]
+[/Code]
