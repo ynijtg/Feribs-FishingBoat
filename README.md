@@ -2,7 +2,7 @@
 This tool automatizate fishing in World of Warcraft (32bit) by internal interactions to the game client.
 
 # Preview
-https://www.youtube.com/edit?o=U&video_id=c_SrzqFQoWk
+https://youtu.be/c_SrzqFQoWk
 
 # Info
 Build of WoW 32bit 7.1.5.23420
