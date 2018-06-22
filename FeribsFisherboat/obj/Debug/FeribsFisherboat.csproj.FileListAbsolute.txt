@@ -1,0 +1,9 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\bin\Debug\FeribsFisherboat.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\obj\Debug\FeribsFisherboat.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\obj\Debug\FeribsFisherboat.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\bin\Debug\FeribsFisherboat.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\bin\Debug\FeribsFisherboat.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\obj\Debug\FeribsFisherboat.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\obj\Debug\FeribsFisherboat.Form1.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\obj\Debug\FeribsFisherboat.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\FeribsFisherboat\FeribsFisherboat\obj\Debug\FeribsFisherboat.csproj.GenerateResource.Cache
