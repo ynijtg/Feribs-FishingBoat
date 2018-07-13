@@ -12,6 +12,9 @@ The tool allocates some memory for the code cave.
 Then it will write the byte pattern into memory.
 After that, all placeholders will be overwritten by the correct offsets/function addresses.
 
+The tool will Create a Remote Thread on the code cave, the tool then wait until the thread dies.
+The Thread will only die if a fish was caught or after 20 second (timeout). A new thread will be createn when an old thread dies until the user cancels the bot.
+
 You might noticed we start our code cave with 0x90 (NOP).
 This is due to the anti-cheat that blizzard uses, what they do is replace the first byte by 0xC3 (ret).
 There is a bypass function in the code that will make our thread start at the second byte of the code cave.
